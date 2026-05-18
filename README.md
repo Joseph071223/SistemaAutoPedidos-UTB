@@ -36,8 +36,22 @@ SistemaAutoPedidos/
 
 ## Instalación
 
+### Windows (PowerShell)
 ```bash
-pip install flet==0.22.1
+python -m venv venv
+Set-ExecutionPolicy RemoteSigned -Scope CurrentUser
+.\venv\Scripts\activate
+python -m pip install --upgrade pip
+pip install -r requirements.txt
+python Interfaz.py
+```
+
+### macOS/Linux
+```bash
+python -m venv venv
+source venv/bin/activate
+python -m pip install --upgrade pip
+pip install -r requirements.txt
 python Interfaz.py
 ```
 
