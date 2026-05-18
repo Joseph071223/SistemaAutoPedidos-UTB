@@ -67,8 +67,8 @@ python Interfaz.py
 
 | Nombre | Código |
 |--------|--------|
-| Joseph Alexander Moreno Hernández | T00088514 |
-| Emmanuel David Angulo González | T00089058 |
+| Joseph Alexander Moreno Hernandez | T00088514 |
+| Emmanuel David Angulo Gonzalez | T00089058 |
 
 Universidad Tecnológica de Bolívar  
 Programación Orientada a Objetos — NRC 1955  
